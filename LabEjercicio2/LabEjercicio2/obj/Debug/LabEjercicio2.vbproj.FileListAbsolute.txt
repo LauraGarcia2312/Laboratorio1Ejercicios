@@ -1,0 +1,11 @@
+C:\Users\Laura García\Desktop\Nueva carpeta\Ejercicio2\LabEjercicio2\LabEjercicio2\obj\Debug\LabEjercicio2.vbprojAssemblyReference.cache
+C:\Users\Laura García\Desktop\Nueva carpeta\Ejercicio2\LabEjercicio2\LabEjercicio2\obj\Debug\LabEjercicio2.Resources.resources
+C:\Users\Laura García\Desktop\Nueva carpeta\Ejercicio2\LabEjercicio2\LabEjercicio2\obj\Debug\LabEjercicio2.vbproj.GenerateResource.cache
+C:\Users\Laura García\Desktop\Nueva carpeta\Ejercicio2\LabEjercicio2\LabEjercicio2\obj\Debug\LabEjercicio2.vbproj.CoreCompileInputs.cache
+C:\Users\Laura García\Desktop\Nueva carpeta\Ejercicio2\LabEjercicio2\LabEjercicio2\bin\Debug\LabEjercicio2.exe.config
+C:\Users\Laura García\Desktop\Nueva carpeta\Ejercicio2\LabEjercicio2\LabEjercicio2\bin\Debug\LabEjercicio2.exe
+C:\Users\Laura García\Desktop\Nueva carpeta\Ejercicio2\LabEjercicio2\LabEjercicio2\bin\Debug\LabEjercicio2.pdb
+C:\Users\Laura García\Desktop\Nueva carpeta\Ejercicio2\LabEjercicio2\LabEjercicio2\bin\Debug\LabEjercicio2.xml
+C:\Users\Laura García\Desktop\Nueva carpeta\Ejercicio2\LabEjercicio2\LabEjercicio2\obj\Debug\LabEjercicio2.exe
+C:\Users\Laura García\Desktop\Nueva carpeta\Ejercicio2\LabEjercicio2\LabEjercicio2\obj\Debug\LabEjercicio2.xml
+C:\Users\Laura García\Desktop\Nueva carpeta\Ejercicio2\LabEjercicio2\LabEjercicio2\obj\Debug\LabEjercicio2.pdb
